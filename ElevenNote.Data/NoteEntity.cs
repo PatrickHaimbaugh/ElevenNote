@@ -30,7 +30,7 @@ namespace ElevenNote.Data
 
         public override string ToString()
         {
-            return $"[{NoteId}] {Title}"
+            return $"[{NoteId}] {Title}";
         }
     }
 }
